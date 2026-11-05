@@ -1,0 +1,15 @@
+{
+  "repository": "module-planned-liberu-revenue-and-care-orchestration-40451d50-react-native",
+  "capabilityKey": "planned:liberu:revenue-and-care-orchestration",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-planned-liberu-revenue-and-care-orchestration-40451d50-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/liberu/nextjs/revenue-and-care-orchestration.md",
+  "presentationPlan": "projects/liberu/react-native/revenue-and-care-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "liberu"
+  ]
+}
